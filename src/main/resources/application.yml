@@ -1,0 +1,6 @@
+spring:
+ datasource:
+    url: jdbc:mysql://db4free.net:3306/tejutestdb
+    username: tejaswi
+    password: tejaswig
+    driver-class-name: com.mysql.jdbc.Driver
